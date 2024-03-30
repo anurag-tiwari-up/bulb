@@ -1,12 +1,3 @@
-// var a = document.querySelector("h1")
-// a.innerHTML="changed using js"
-// a.style.color="black"
-// a.style.backgroundColor="yellow"
-
-// a.addEventListener("click",function(){
-//     a.style.color="blue"
-// })
-
 var b = document.querySelector(".bulb")
 
 var indicator=0
